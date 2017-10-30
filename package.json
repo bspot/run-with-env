@@ -10,6 +10,9 @@
     "run",
     "execute"
   ],
+  "bin": {
+    "run-with-env": "bin/run-with-env.js"
+  },
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
