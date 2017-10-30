@@ -1,0 +1,13 @@
+{
+  "name": "run-with-env",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Collect variables from env / .env files / JSON files / command line and run a program.",
+  "keywords": [
+    "env",
+    ".env",
+    "dotenv",
+    "run",
+    "execute"
+  ]
+}
