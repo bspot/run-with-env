@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "plugins": [
+    "promise"
+  ],
+  "env": {
+    "node" : true
+  },
+  "rules": {
+    "brace-style": ["error", "stroustrup", { "allowSingleLine": true }],
+    "key-spacing": ["error", { "beforeColon": false, "afterColon": true }],
+    "padded-blocks": 0,
+    "space-before-function-paren": ["error", { "anonymous": "always", "named": "never" }],
+    "no-var": "error",
+    "no-console": 0,
+    "object-curly-spacing": [2, "always"],
+    "prefer-const": "error"
+  }
+}
