@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules
+
+# IDE / system files
+*.iml
+*.ipr
+*.iws
+*.idea
+.DS_Store
+
+# Temp / Logfiles
+/npm-debug.log*
+
